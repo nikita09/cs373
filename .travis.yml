@@ -6,7 +6,7 @@ python:
 sudo: false
 
 notifications:
-  slack: cs373-fall-2016:f1ee6147133ced08526bf02db3240f5ce8d8519b
+  slack: cs373f-spring-2017:SDrRah9Qf4D5M9KR2KoxxwZl
 
 install:
     - pip install --upgrade pip
